@@ -1,0 +1,7 @@
+portfolio tailwindcss
+1. hero section :
+mobile version
+desktop version
+2. about section
+3. navbar :
+hamburger menu
